@@ -10,6 +10,23 @@ Int: Variável de números inteiros
 
 Float: Variável de números decimais
 ----------------------------------------------------------------------------------------------------------------------------
+OPERADORES LÓGICOS:
+
+&& : Retorna verdadeiro se ambas as condições forem verdadeiras
+|| : Retorna verdadeiro se pelo menos uma das condições for verdadeira
+! : Inverte o valor de uma expressão, caso a expressão for true, tornará ela false e vice versa
+
+== : Verifica se  dois operandos são iguais
+!= : Verifica se dois operandos são diferentes
+> : Verifica se o primeiro operando é maior que o segundo
+< : Verifica se o primeiro operando é menor que o segundo
+>= : Verifica se o primeiro operando é maior ou igual ao segundo
+<= : Verifica se o primeiro operando é menor ou igual ao segundo
+
+++ : Incrementa o valor do operando em 1
+-- : Diminui o valor do operando em 1
+
+----------------------------------------------------------------------------------------------------------------------------
 Tipos de escreva:
 
 Console.Write: Escreva na mesma linha
