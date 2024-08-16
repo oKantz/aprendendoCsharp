@@ -26,6 +26,8 @@ OPERADORES LÓGICOS:
 ++ : Incrementa o valor do operando em 1
 -- : Diminui o valor do operando em 1
 
+*= : vai atribuir o valor da multiplicação, por exemplo A(5) *= B(10), então será feita a multiplicação 5x10 e será adicionado ao valor de A
+
 ----------------------------------------------------------------------------------------------------------------------------
 Tipos de escreva:
 
