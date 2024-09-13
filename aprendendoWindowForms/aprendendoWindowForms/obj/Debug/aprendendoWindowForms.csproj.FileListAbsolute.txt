@@ -1,0 +1,11 @@
+C:\Users\joao.vpfcorrea\source\repos\aprendendoWindowForms\aprendendoWindowForms\bin\Debug\aprendendoWindowForms.exe.config
+C:\Users\joao.vpfcorrea\source\repos\aprendendoWindowForms\aprendendoWindowForms\bin\Debug\aprendendoWindowForms.exe
+C:\Users\joao.vpfcorrea\source\repos\aprendendoWindowForms\aprendendoWindowForms\bin\Debug\aprendendoWindowForms.pdb
+C:\Users\joao.vpfcorrea\source\repos\aprendendoWindowForms\aprendendoWindowForms\obj\Debug\aprendendoWindowForms.csproj.AssemblyReference.cache
+C:\Users\joao.vpfcorrea\source\repos\aprendendoWindowForms\aprendendoWindowForms\obj\Debug\aprendendoWindowForms.Form1.resources
+C:\Users\joao.vpfcorrea\source\repos\aprendendoWindowForms\aprendendoWindowForms\obj\Debug\aprendendoWindowForms.Properties.Resources.resources
+C:\Users\joao.vpfcorrea\source\repos\aprendendoWindowForms\aprendendoWindowForms\obj\Debug\aprendendoWindowForms.csproj.GenerateResource.cache
+C:\Users\joao.vpfcorrea\source\repos\aprendendoWindowForms\aprendendoWindowForms\obj\Debug\aprendendoWindowForms.csproj.CoreCompileInputs.cache
+C:\Users\joao.vpfcorrea\source\repos\aprendendoWindowForms\aprendendoWindowForms\obj\Debug\aprendendoWindowForms.exe
+C:\Users\joao.vpfcorrea\source\repos\aprendendoWindowForms\aprendendoWindowForms\obj\Debug\aprendendoWindowForms.pdb
+C:\Users\joao.vpfcorrea\source\repos\aprendendoWindowForms\aprendendoWindowForms\obj\Debug\aprendendoWindowForms.frmUsuario.resources

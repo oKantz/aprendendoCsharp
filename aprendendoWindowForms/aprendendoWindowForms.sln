@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aprendendoWindowForms", "aprendendoWindowForms\aprendendoWindowForms.csproj", "{5C10F5B1-9CF1-4BE0-9715-BA9D81E0C64C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C10F5B1-9CF1-4BE0-9715-BA9D81E0C64C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C10F5B1-9CF1-4BE0-9715-BA9D81E0C64C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C10F5B1-9CF1-4BE0-9715-BA9D81E0C64C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C10F5B1-9CF1-4BE0-9715-BA9D81E0C64C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {593DA932-0F15-427C-BEE1-6C0502D17E3C}
+	EndGlobalSection
+EndGlobal
